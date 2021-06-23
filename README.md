@@ -1,12 +1,12 @@
 create env 
 
 ```bash
-conda create -n wineq python=3.7 -y
+python3 -m venv fold_name
 ```
 
 activate env
 ```bash
-conda activate wineq
+source fold_name/bin/activate
 ```
 
 created a req file
