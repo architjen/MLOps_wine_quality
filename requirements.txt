@@ -1,3 +1,6 @@
+#local package install 
+-e .
+
 dvc
 sklearn
 pandas
